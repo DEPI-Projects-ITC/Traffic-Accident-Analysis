@@ -1,4 +1,4 @@
-![Date-Table](https://github.com/user-attachments/assets/71aaa52c-7c2a-42d6-b648-b321f39006c3)# Traffic Accident Analysis Report
+# Traffic Accident Analysis Report
 
 ## Overview
 
