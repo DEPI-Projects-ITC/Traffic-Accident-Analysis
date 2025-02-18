@@ -3,7 +3,7 @@
 ## Overview
 
 Welcome to the **Traffic Accident Analysis Report** repository! This project is part of the **Digital Egypt Pioneers Initiative (DEPI)**, undertaken by a dedicated team of students under the supervision of Dr. Eman Ghanem. Our goal was to deeply analyze traffic accidents to uncover patterns, contributing factors, and potential preventive measures that could enhance public safety.
-
+![video][video/Traffic-Demo.mp4]
 ## Problem Statement
 
 Traffic accidents are a pressing public safety issue, resulting in numerous injuries and fatalities each year. Understanding the trends and factors contributing to these incidents is essential for effective prevention and informed policy-making. 
